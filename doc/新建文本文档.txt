@@ -1,0 +1,8 @@
+1、资源文件采用：类名+语言.resx		NewWindow.zh-CN.resx	NewWindow.en-US.resx
+2、语言名字是固定的，不能自定义。
+3、在工程上右键-新建-输入关键字资源进行过滤
+4、每个类文件，对应一组资源文件
+5、已经封装成单独的static类，可直接调用
+6、Properties里面定义的DefaultLanguage，实际上会写入到App.config当中
+多国语言
+资源文件命名

@@ -1,0 +1,19 @@
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\bin\Debug\23 Multilanguage.exe.config
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\bin\Debug\23 Multilanguage.exe
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\bin\Debug\23 Multilanguage.pdb
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\bin\Debug\en-US\23 Multilanguage.resources.dll
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\bin\Debug\zh-CN\23 Multilanguage.resources.dll
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\23 Multilanguage.csprojAssemblyReference.cache
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.MainForm.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.NewWindow.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.Properties.Resources.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.MainForm.en-US.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.MainForm.zh-CN.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.NewWindow.en-US.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\_23_Multilanguage.NewWindow.zh-CN.resources
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\23 Multilanguage.csproj.GenerateResource.cache
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\23 Multilanguage.csproj.CoreCompileInputs.cache
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\en-US\23 Multilanguage.resources.dll
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\zh-CN\23 Multilanguage.resources.dll
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\23 Multilanguage.exe
+H:\misc\2jQuery js html\3 工程\23 Multilanguage\23 Multilanguage\obj\Debug\23 Multilanguage.pdb
